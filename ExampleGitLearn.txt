@@ -1,0 +1,42 @@
+git commands.
+The following are the basic commands used in Git:
+1.  **git add**: This command is used to stage changes in the working directory. It
+adds the changes to the index, which is a data structure that Git uses to track
+changes in the repository.
+2.  **git commit**: This command is used to commit changes in the staging area to th
+e repository. It creates a new commit with the specified message.
+3.  **git log**: This command is used to display a log of all commits in th
+e repository. It shows the commit history, including the commit hash, author, date, and messag
+4.  **git branch**: This command is used to create, list, or delete branches in
+the repository. It allows you to work on different features or bug fixes without affecting the main branch.
+5.  **git merge**: This command is used to merge changes from one branch into another.
+6.  **git push**: This command is used to push changes from the local repository to a
+remote repository.
+7.  **git pull**: This command is used to pull changes from a remote repository to th
+e local repository.
+8.  **git status**: This command is used to display the status of the working directory.
+9.  **git diff**: This command is used to display the differences between the working directory and
+the index.
+10. **git remote**: This command is used to manage remote repositories, such as adding, removing
+or updating them.
+The following are some advanced Git commands:
+1.  **git rebase**: This command is used to rebase a branch onto another branch
+2.  **git cherry-pick**: This command is used to apply the changes from one commit
+to another
+3.  **git reset**: This command is used to reset the current branch to a previous stat
+4.  **git checkout**: This command is used to switch between branches or restore a file to
+a previous version
+5.  **git stash**: This command is used to save changes in the working directory and
+switch to a clean working directory
+6.  **git tag**: This command is used to create, list, or delete tags in
+the repository
+7.  **git submodule**: This command is used to manage submodules in
+the repository
+8.  **git svn**: This command is used to interact with a Subversion repository using Git
+9.  **gitk**: This command is used to display a graphical representation of the commit history
+10. **gitk --all**: This command is used to display a graphical representation of the commit
+history for all branches
+These are some of the basic and advanced Git commands. There are many more commands available in Git,
+and you can learn more about them by using the `git help` command or by checking out th
+e official Git documentation.
+
